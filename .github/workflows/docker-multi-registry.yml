@@ -1,4 +1,3 @@
-
 name: Multi-Registry Docker CI/CD
 
 on:
