@@ -10,7 +10,6 @@ A production-grade CI/CD pipeline using **GitHub Actions** for building Docker i
 * 🔁 Push to both **DockerHub** and **AWS ECR**
 * 🛡️ Scan images for vulnerabilities using **Trivy**
 * 📧 Email detailed scan reports automatically
-* ⚙️ Designed for scalability, extensibility, and DevSecOps
 
 ---
 
@@ -104,4 +103,4 @@ Contributions are welcome! Open an issue or submit a PR with your improvements.
 
 ## 💡 Author
 
-Made with ❤️ by [Your Name](https://github.com/codewithmuh)
+Made with ❤️ by [CodeWithMuh](https://github.com/codewithmuh)
