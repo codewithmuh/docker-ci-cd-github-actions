@@ -48,8 +48,8 @@ A production-grade CI/CD pipeline using **GitHub Actions** for building Docker i
 ### 2. Clone & Push Code
 
 ```bash
-git clone https://github.com/your-username/github-actions-docker-pipeline.git
-cd github-actions-docker-pipeline
+git clone https://github.com/codewithmuh/docker-ci-cd-github-actions
+cd docker-ci-cd-github-actions
 git push origin main
 ```
 
@@ -104,4 +104,4 @@ Contributions are welcome! Open an issue or submit a PR with your improvements.
 
 ## 💡 Author
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Your Name](https://github.com/codewithmuh)
